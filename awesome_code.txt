@@ -1,4 +1,4 @@
-instructores = ["Andrea"]
+instructors = ["Andrea"]
 for i in instructors:
 	if i == "Andrea":
 		instructors += ["Kyle"]
